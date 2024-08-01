@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+'''Add type notations to the function
+'''
 
 
 from typing import TypeVar, Dict, Any, Optional

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+'''
+Duck-typed annotations
+'''
 
 
 from typing import Any, List, Optional
